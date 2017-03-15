@@ -162,6 +162,8 @@ img {
 
 .ba-width-2-3, .ba-width-4-6 {
     width: 66.667%;
+    display: inline-block;
+    font-size: 1rem;
 }
 
 .ba-width-1-4 {
